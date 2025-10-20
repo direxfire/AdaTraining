@@ -296,7 +296,3 @@ This is experimental research into AI identity formation. Consider:
 Created by Drew for AI Ethics research.
 
 If this helps your research or you have improvements, contributions welcome!
-
----
-
-**Good luck with the training, Drew! Let me know how it goes.** 🚀
